@@ -1,0 +1,6 @@
+bin/
+pkg/
+src/
+
+example/app.js
+example/app.js.map
